@@ -11,7 +11,7 @@ const users = [
 ]
 
 const carts = [
-    {user: 1, product: 1},
+    {user: 1, product: 4},
     {user: 1, product: 2},
     {user: 2, product: 3},
     {user: 6, product: 4},
@@ -31,7 +31,7 @@ const carts = [
     {user: 3, product: 3},
 ]
 
-const product = [
+const products = [
     {id: 1, title: 'apple'},
     {id: 2, title: 'banana'},
     {id: 3, title: 'tomato'},
@@ -55,8 +55,13 @@ rl.question("What is your name ? ", function(name) {
         return item.user === user.id
     })
 
+    user.products = cart.map((item) => {
+        return products.find((productIem) => {
+            return productIem.id === item.product
+        })
+    })
+
 console.log(user)
-    console.log(cart)
     rl.close();
 });
 
