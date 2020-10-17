@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aa1e4cc-564b-42b5-91d1-6bf5a32ec600" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/001.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find-index-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triugolnik.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-palinomial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-anagramma.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-exe.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-exe.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,8 @@
       <updated>1602336346718</updated>
       <workItem from="1602336347786" duration="5662000" />
       <workItem from="1602594341990" duration="7625000" />
-      <workItem from="1602767399195" duration="5540000" />
+      <workItem from="1602767399195" duration="6043000" />
+      <workItem from="1602940070626" duration="5549000" />
     </task>
     <servers />
   </component>
@@ -93,6 +92,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="710" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602944856940">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="710" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602944856940" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1602336374927">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
